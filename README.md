@@ -8,3 +8,6 @@
 
 ### Link to Colab of Assignment-2
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/assignment_2/assignment_2.ipynb)
+
+----------------------------------------------------
