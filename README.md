@@ -11,6 +11,6 @@
 
 
 ### Link to Colab of Assignment-2 Part-B
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/assignment_2/partB/assignment_2_partB.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/assignment_2/partB/Assignment_2_partB.ipynb)
 
 ----------------------------------------------------
