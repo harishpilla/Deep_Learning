@@ -1,0 +1,12 @@
+In order to ensure good coding guidelines we added this file to the project.
+
+Guidelines for writing code:
+----------------------------
+1. Always ensure that the comments are written ahead of the action.
+   For e.g. # Set Value to False
+            Value = False
+2. Ensure the code in master branch is clean without any debug code.
+3. Please contact the product owner incase of Pull Requests.
+4. Strictly follow the good coding practices and nuances of python community.
+   For more details: https://www.python.org/about/help/
+5. Be kind to everyone in the group and work collaboratively.
