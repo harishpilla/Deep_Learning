@@ -18,3 +18,6 @@
 https://www.youtube.com/watch?v=8nkuPMHMAEw
 
 ----------------------------------------------------
+
+### Link to Colab of Assignment-3 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3.ipynb)
