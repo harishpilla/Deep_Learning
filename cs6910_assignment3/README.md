@@ -136,7 +136,7 @@ While running the notebook or while running notebook, please add nirmala.ttf to 
 <br/>
 
 # Link to Report #
-The wandb report is available [here](https://wandb.ai/cs21m010-cs21m041/DL_Assignment_3_a/reports/Assignment-3--VmlldzoxOTY4NTQ5).
+The wandb report is available [here](https://wandb.ai/cs21m010-cs21m041/DL_Assignment_3_a/reports/Assignment-3--VmlldzoxOTY0MzUw).
 
 <br/>
 
