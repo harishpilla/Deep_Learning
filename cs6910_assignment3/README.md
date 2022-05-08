@@ -90,6 +90,10 @@ Majority of the code remains the same in both vanilla seq2seq and attention mode
 
 <br/>
 
+# Transformers #
+
+For the majority of the transformers code, we reffered to the blog. The code is present in transformers-gpt2.ipynb file in transformers folder. We used the dataset `gloom_index.xlsx` for generating song lyrics which is downloaded from the data world website. After running the above notebook, we get `generated_lyrics.txt` for the text 'I love Deep Learning'.
+
 ## Note ##
 While running the notebook or while running notebook, please add nirmala.ttf to your google drive in the location `/content/drive/MyDrive/fonts/nirmala.ttf` . This is used for font properties of the Telugu Language.
 
@@ -112,3 +116,4 @@ The wandb report is available [here](https://wandb.ai/cs21m010-cs21m041/DL_Assig
 9. https://towardsdatascience.com/visualising-lstm-activations-in-keras-b50206da96ff
 10. https://towardsdatascience.com/natural-language-generation-part-2-gpt-2-and-huggingface-f3acb35bc86a
 11. https://www.aclweb.org/anthology/2020.lrec-1.294
+12. https://data.world/rcharlie/gloom-index-of-radiohead-songs/workspace/file?filename=gloom_index.csv
