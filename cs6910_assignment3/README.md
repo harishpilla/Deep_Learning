@@ -32,6 +32,28 @@ The Dakshina dataset is a collection of text in both Latin and native scripts fo
 
 <br/>
 
+# Code #
+
+The code can be run either from the command line or as a colab notebook. For running in google colab ensure that the file `nirmala.ttf` is uploaded to the location `/content/drive/MyDrive/fonts/nirmala.ttf`
+
+For running through command prompt (update the location of nirmala.ttf appropriately):
+```
+python assignment_3_no_attention.py
+python assignment_3_attention.py
+```
+
+### Link to Colab of Assignment-3 Vanilla Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3_no_attention.ipynb)
+
+
+### Link to Colab of Assignment-3 Attention Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3_attention.ipynb)
+
+### Link to Colab of Transformers
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/transformers/transformers-gpt2.ipynb)
+
+<br/>
+
 # How to USE? #
 The entire project has been modularised using functions to make it as scalable as possible for future developments and extensions.
 
@@ -90,9 +112,23 @@ Majority of the code remains the same in both vanilla seq2seq and attention mode
 
 <br/>
 
+# Visualizations # 
+
+In no_attention model we represented 16 samples along with their English words, predicted telugu words and actual telugu words using word cloud. 
+
+In summary table, for each character we showed a count of a letter occurance and their correct prediction percentage which  helps to see which letters were mostly wrong.
+
+We also took around 20 samples and showed their predicted and actual Telugu values in a table. 
+
+In attention model we showed the attention heat maps for a few samples. Later, we showed the visualization to see which is being decoded in target word based on the given input english word.
+
+<br/>
+
 # Transformers #
 
 For the majority of the transformers code, we reffered to the blog. The code is present in transformers-gpt2.ipynb file in transformers folder. We used the dataset `gloom_index.xlsx` for generating song lyrics which is downloaded from the data world website. After running the above notebook, we get `generated_lyrics.txt` for the text 'I love Deep Learning'.
+
+<br/>
 
 ## Note ##
 While running the notebook or while running notebook, please add nirmala.ttf to your google drive in the location `/content/drive/MyDrive/fonts/nirmala.ttf` . This is used for font properties of the Telugu Language.

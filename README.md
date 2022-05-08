@@ -19,9 +19,12 @@ https://www.youtube.com/watch?v=8nkuPMHMAEw
 
 ----------------------------------------------------
 
-### Link to Colab of Assignment-3 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3.ipynb)
+### Link to Colab of Assignment-3 Vanilla Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3_no_attention.ipynb)
 
 
-### Link to Colab of Assignment-3 Part-B
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3_part_b.ipynb)
+### Link to Colab of Assignment-3 Attention Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/assignment_3_attention.ipynb)
+
+### Link to Colab of Transformers
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwanth10/Deep_Learning/blob/master/cs6910_assignment3/transformers/transformers-gpt2.ipynb)
